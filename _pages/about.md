@@ -31,8 +31,8 @@ _This website is currently under construction_
 
 Hello! I am a **Ph.D. student** in the Department of Ecology, Evolution, and Environmental Biology (E3B) at Columbia University.
 
-My research focuses on how anthropogenic disturbances influence **`animal movement`** and the cascading effects on `zoonotic pathogen transmission dynamics and hazard formation`. Utilizing this knowledge, I aim to support `structured decision-making` process to identify optimal or cost-effective strategies for hazard control.
+My research focuses on how anthropogenic disturbances influence **animal movement** and the cascading effects on **zoonotic pathogen transmission dynamics and hazard formation**. Utilizing this knowledge, I aim to support **structured decision-making** process to identify optimal or cost-effective strategies for hazard control.
 
-Please stay tuned for my research updates!
+Please stay tuned for my research updates! <br><br>
 
 Areas of interest: Disease ecology, Movement ecology, Spatial modeling, Structured decision-making
