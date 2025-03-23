@@ -6,7 +6,6 @@ subtitle: <a href='#'>Columbia University</a>. sl5145@columbia.edu.
 
 profile:
   align: right
-
   image: profile pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
