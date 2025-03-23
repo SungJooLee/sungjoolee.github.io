@@ -29,7 +29,7 @@ latest_posts:
 
 _(This website is currently under construction)_
 
-Hello! I am a **Ph.D. student** advised by Prof. Maria Diuk-Wasser ([Eco-epidemiology lab](https://ecoepidemiologylab.e3b.columbia.edu/)) in the Department of Ecology, Evolution, and Environmental Biology (E3B) at Columbia University.
+Hello! I am a **Ph.D. student** advised by Prof. Maria Diuk-Wasser [Eco-epidemiology lab](https://ecoepidemiologylab.e3b.columbia.edu/) in the Department of Ecology, Evolution, and Environmental Biology (E3B) at Columbia University.
 
 My research focuses on how anthropogenic disturbances influence **animal movement** and the cascading effects on **zoonotic pathogen transmission dynamics and hazard formation**. Utilizing this knowledge, I aim to support **structured decision-making** process to identify optimal or cost-effective strategies for hazard control.
 
