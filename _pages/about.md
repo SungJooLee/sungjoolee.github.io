@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Columbia University</a>. sl5145@columbia.edu. 
+subtitle: <a href='#'>Columbia University</a>. sl5145@columbia.edu.
 
 profile:
   align: right
@@ -27,7 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!-- This page is under construction
+This page is under construction
 
-Hello! I am a `PhD student` at Columbia University in Ecology, Evolution, and Environmental Biology (E3B). I study how `anthropogenic disturbances affect animal movement and its cascading effects on transmission dynamics or hazard formation of zoonotic pathogens`.  -->
-
+Hello! I am a `PhD student` at Columbia University in Ecology, Evolution, and Environmental Biology (E3B). I study how `anthropogenic disturbances affect animal movement and its cascading effects on transmission dynamics or hazard formation of zoonotic pathogens`.
