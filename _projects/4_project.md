@@ -1,10 +1,10 @@
 ---
 layout: page
 title: project 4
-description: another without an image
+description: NYC tick hazard mapping
 img:
 importance: 3
-category: fun
+category: Ongoing
 ---
 
 Every project has a beautiful feature showcase page.
