@@ -8,7 +8,7 @@ category: Ongoing
 related_publications: true
 ---
 
-Animals track resource availability and adjust their movement to maximize resource gain. Supplementary feeding can alter movement patterns in ways that increase pathogen transmission risk by promoting **aggregation**. I evaluated whether the presence of bait significantly increases **contact rates** and shifts the **spatial distribution** of contacts, and whether these effects vary by **season**.
+Animals track resource availability and adjust their movement to maximize resource gain. Supplementary feeding can alter movement patterns in ways that increase pathogen transmission risk by promoting **aggregation**. I evaluated whether the presence of bait significantly increases **contact rates** and shifts the **spatial distribution** of contacts, and whether these effects vary by **season**. 
 
 
 <div class="row">
