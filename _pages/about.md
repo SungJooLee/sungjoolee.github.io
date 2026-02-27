@@ -36,4 +36,4 @@ Currenty at Columbia University, my research focuses on how anthropogenic distur
 
 Please stay tuned for my research updates! 💡 <br><br>
 
-Areas of interest: Disease ecology, Movement ecology, Spatial modeling, Structured decision-making hi
+Areas of interest: Disease ecology, Movement ecology, Spatial modeling, Structured decision-making
