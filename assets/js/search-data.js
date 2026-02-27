@@ -57,9 +57,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-deer-contact-network-and-supplementary-bait",
-          title: 'Deer contact network and supplementary bait',
-          description: "Jan, 2024 ~ ongoing",
+            },},{id: "projects-contact-supplementary-bait",
+          title: 'Contact supplementary bait',
+          description: "Does bait influence contact number and location?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-deer-amp-ticks-abm",
