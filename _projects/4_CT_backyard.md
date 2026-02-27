@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Decision-making in tick control
-description: a project with a background image
+description: Chapter 4
 img: assets/img/1.jpg
-importance: 3
+importance: 4
 category: Ongoing
 ---
 

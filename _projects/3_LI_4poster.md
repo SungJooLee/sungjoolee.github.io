@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Deer & Ticks ABM
-description: a project with a background image and giscus comments
+title: Bait-based tick intervention
+description: Chapter 3
 img: assets/img/3.jpg
-importance: 2
+importance: 3
 category: Ongoing
 giscus_comments: true
 ---

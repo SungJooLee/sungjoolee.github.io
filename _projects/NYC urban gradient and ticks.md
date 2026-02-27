@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: NYC tick hazard mapping
+title: NYC urban gradient and ticks
+description: collaborating project
 img:
 importance: 3
 category: Ongoing
