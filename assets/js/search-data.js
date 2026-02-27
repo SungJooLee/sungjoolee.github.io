@@ -57,31 +57,31 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-contact-supplementary-bait",
-          title: 'Contact supplementary bait',
-          description: "Does bait influence contact number and location?",
+            },},{id: "projects-bait-and-deer-memory",
+          title: 'Bait and deer memory',
+          description: "Chapter 1",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-deer-amp-ticks-abm",
-          title: 'Deer &amp;amp; Ticks ABM',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/1_deer_memory/";
+            },},{id: "projects-bait-and-contact",
+          title: 'Bait and contact',
+          description: "Chapter 2",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "NYC tick hazard mapping",
+              window.location.href = "/projects/2_deer_contact/";
+            },},{id: "projects-bait-based-tick-intervention",
+          title: 'Bait-based tick intervention',
+          description: "Chapter 3",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/3_LI_4poster/";
             },},{id: "projects-decision-making-in-tick-control",
           title: 'Decision-making in tick control',
-          description: "a project with a background image",
+          description: "Chapter 4",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-redirecting-project",
-          title: 'redirecting project',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/4_CT_backyard/";
+            },},{id: "projects-nyc-urban-gradient-and-ticks",
+          title: 'NYC urban gradient and ticks',
+          description: "collaborating project",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/project_with_redirection/";
+              window.location.href = "/projects/NYC%20urban%20gradient%20and%20ticks/";
             },},{
         id: 'social-email',
         title: 'email',
