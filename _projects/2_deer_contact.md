@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Bait and contact
-description: Chapter 2
+description: Does bait increase and localize contact?
 img: assets/img/12.jpg
 importance: 2
 category: Ongoing
 related_publications: true
 ---
 
-Animals track resource availability and adjust their movement to maximize resource gain. Supplementary feeding can therefore modify movement patterns in ways that elevate opportunities for pathogen transmission. 
-Increased visitation and prolonged time spent near feeding sites bring individuals into closer proximity, raising direct contact rate. However, empirical evidence showing increased direct contacts and transmissions remains limited; most existing work is theoretical.
+Animals track resource availability and adjust their movement to maximize resource gain. Supplementary feeding can alter movement patterns in ways that increase pathogen transmission risk by promoting **aggregation**. I evaluated whether the presence of bait significantly increases **contact rates** and shifts the **spatial distribution** of contacts, and whether these effects vary by **season**.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,14 +20,5 @@ Increased visitation and prolonged time spent near feeding sites bring individua
     White-tailed deer cofeeding (left) and encountering (upper right) at bait sites, which were piles of corns (bottom right)
 </div>
 
-To address this gap, I examined how feeding sites modify transmission potential by altering contact dynamics—focusing on the `<frequency>` and spatial distribution of contacts. 
 
-    ---
-    Q1) Does supplementary feeding increase and localize contact?
-        - What demographic and environmental factors drive such a pattern? 
-    Q2) How much does feeding enhances transmission potential?
-    ---
-
-Findings
-
-
+{% endraw %}

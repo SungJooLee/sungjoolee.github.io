@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bait and deer memory
-description: Chapter 1
+description: Do deer remember bait locations?
 img: assets/img/3.jpg
 importance: 1
 category: Ongoing

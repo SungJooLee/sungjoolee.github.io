@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Decision-making in tick control
-description: Chapter 4
+title: Host community and tick control
+description: Does variation in host community mean a different optimal tick control method?
 img: assets/img/1.jpg
 importance: 4
 category: Ongoing

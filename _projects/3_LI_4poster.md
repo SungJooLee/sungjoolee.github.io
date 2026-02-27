@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bait-based tick intervention
-description: Chapter 3
+title: Deer-targeted tick control
+description: Could aggregation of host counteract the treatment effect?
 img: assets/img/3.jpg
 importance: 3
 category: Ongoing

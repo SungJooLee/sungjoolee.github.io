@@ -1,9 +1,9 @@
 ---
 layout: page
 title: NYC urban gradient and ticks
-description: collaborating project
+description: Greenspace connectivity and tick-borne hazard
 img:
-importance: 3
+importance: 5
 category: Ongoing
 ---
 
