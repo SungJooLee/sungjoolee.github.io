@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Deer contact network and supplementary bait
-description: Jan, 2024 ~ ongoing
+title: Contact supplementary bait
+description: Does bait influence contact number and location?
 img: assets/img/12.jpg
 importance: 1
 category: Ongoing
