@@ -59,27 +59,27 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "projects-bait-and-deer-memory",
           title: 'Bait and deer memory',
-          description: "Chapter 1",
+          description: "Do deer remember bait locations?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_deer_memory/";
             },},{id: "projects-bait-and-contact",
           title: 'Bait and contact',
-          description: "Chapter 2",
+          description: "Does bait increase and localize contact?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_deer_contact/";
-            },},{id: "projects-bait-based-tick-intervention",
-          title: 'Bait-based tick intervention',
-          description: "Chapter 3",
+            },},{id: "projects-deer-targeted-tick-control",
+          title: 'Deer-targeted tick control',
+          description: "Could aggregation of host counteract the treatment effect?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_LI_4poster/";
-            },},{id: "projects-decision-making-in-tick-control",
-          title: 'Decision-making in tick control',
-          description: "Chapter 4",
+            },},{id: "projects-host-community-and-tick-control",
+          title: 'Host community and tick control',
+          description: "Does variation in host community mean a different optimal tick control method?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_CT_backyard/";
             },},{id: "projects-nyc-urban-gradient-and-ticks",
           title: 'NYC urban gradient and ticks',
-          description: "collaborating project",
+          description: "Greenspace connectivity and tick-borne hazard",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NYC%20urban%20gradient%20and%20ticks/";
             },},{
