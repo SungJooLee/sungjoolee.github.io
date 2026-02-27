@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of my cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -57,9 +57,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-deer-in-si",
-          title: 'Deer in SI',
-          description: "with background image",
+            },},{id: "projects-deer-contact-network-and-supplementary-bait",
+          title: 'Deer contact network and supplementary bait',
+          description: "Jan, 2024 ~ ongoing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-deer-amp-ticks-abm",
@@ -67,11 +67,6 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-backyard-ecology-amp-ticks",
-          title: 'Backyard Ecology &amp;amp; Ticks',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "NYC tick hazard mapping",
@@ -82,6 +77,11 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-redirecting-project",
+          title: 'redirecting project',
+          description: "a project that redirects to another website",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_with_redirection/";
             },},{
         id: 'social-email',
         title: 'email',
