@@ -31,7 +31,7 @@ _(This website is currently under construction)_
 
 Hello! I am a **Ph.D. student** advised by Prof. Maria Diuk-Wasser (<a href="https://ecoepidemiologylab.e3b.columbia.edu" target="_blank">Eco-epidemiology lab</a>) in the Department of Ecology, Evolution, and Environmental Biology (E3B) at Columbia University.
 
-I am a researcher working at the intersection of wildlife ecology, pathogen transmission, and decision-making in conservation and disease control. Currently at Columbia University, my research examines how **anthropogenic disturbances** alter **animal movement and spatial distribution**, and how these changes scale up to **influence zoonotic pathogen transmission dynamics**. I integrate movement ecology, epidemiological modeling, and empirical field data to gain insights on key ecological processes that modulate zoonotic disease hazard. I enjoy identifing effective and cost-efficient strategies for **hazard mitigation** grounded in ecological mechanisms through stuctural decision-making.
+I am a researcher working at the intersection of wildlife ecology, zoonotic diseases, and decision-making in conservation and disease control. Currently at Columbia University, my research examines how **anthropogenic disturbances** alter **animal movement and spatial distribution**, and how these changes scale up to **influence zoonotic pathogen transmission dynamics**. I integrate movement ecology, epidemiological modeling, and empirical field data to gain insights on key ecological processes that modulate zoonotic disease hazard. I enjoy identifing effective and cost-efficient strategies for **hazard mitigation** grounded in ecological mechanisms through stuctural decision-making.
 
 Please stay tuned for my research updates! 💡 <br><br>
 
