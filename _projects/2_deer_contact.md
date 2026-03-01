@@ -38,5 +38,5 @@ Preliminary analyses indicate that the presence of bait in the landscape **doubl
 However, <i>stronger selection for feeding sites did not necessarily translate into higher contact probability</i> near those sites. Instead, the relationship was **moderated by feeding density**. In other words, how many feeding sites were installed across the landscape influenced whether increased attraction led to localized contact.
 <br><br>
 
-These findings are **preliminary** and subject to change as analyses continue. Please stay tuned for further updates! 💡
+These findings are **preliminary** and subject to change as analyses continue. Please stay tuned for further updates! 💡 
 <br><br>
