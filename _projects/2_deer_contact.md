@@ -9,9 +9,10 @@ related_publications: true
 ---
 
 Animals track resource availability and adjust their movement to maximize resource gain. 
-<br>
+
+
 Supplementary feeding can alter movement patterns in ways that increase pathogen transmission risk by promoting **aggregation**. I evaluated whether the presence of bait significantly increases **contact rates** and shifts the **spatial distribution** of contacts, and whether these effects vary by **season**. 
-<br>
+<br><br>
 My work was conducted in Staten Island, one of the boroughs of New York City, where supplementary feeding sites were deployed over multiple rounds as part of a SARS-CoV-2 surveillance effort. Feeding occurred in both summer and winter, and each round differed in the number of feeding sites installed. This variation created an opportunity for me to examine the interaction between **season** and **feeding density** (number of sites/km2).
 
 <div class="row">
@@ -33,8 +34,9 @@ My work was conducted in Staten Island, one of the boroughs of New York City, wh
 </div>
 
 Preliminary analyses indicate that the presence of bait in the landscape **doubled** the number of contacts within the white-tailed deer population relative to periods without bait. This increase in contacts was driven by a behavioral shift toward **stronger selection** for feeding sites, with effects markedly stronger in **winter** than in summer.
-<br>
-However, <i>stronger selection for feeding sites did not necessarily translate into higher contact probability</i> near those sites. Instead, the relationship was **moderated by feeding density<**. In other words, how many feeding sites were installed across the landscape influenced whether increased attraction led to localized contact.
+<br><br>
+However, <i>stronger selection for feeding sites did not necessarily translate into higher contact probability</i> near those sites. Instead, the relationship was **moderated by feeding density**. In other words, how many feeding sites were installed across the landscape influenced whether increased attraction led to localized contact.
 <br><br>
 
 These findings are **preliminary** and subject to change as analyses continue. Please stay tuned for further updates! 💡
+<br><br>

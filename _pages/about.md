@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Columbia University</a>. sl5145@columbia.edu.
+subtitle: <a href='#'>Columbia University. sl5145@columbia.edu.</a>
 
 profile:
   align: right
