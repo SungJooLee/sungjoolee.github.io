@@ -74,7 +74,7 @@ ninja.data = [{
               window.location.href = "/projects/3_LI_4poster/";
             },},{id: "projects-host-community-and-tick-control",
           title: 'Host community and tick control',
-          description: "Does variation in host community mean a different optimal tick control method?",
+          description: "Does variation in host communities mean a different optimal tick control method?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_CT_backyard/";
             },},{id: "projects-nyc-urban-gradient-and-ticks",
