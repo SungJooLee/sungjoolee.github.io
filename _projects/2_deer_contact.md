@@ -5,7 +5,7 @@ description: Does bait increase and localize contact?
 img: assets/img/project_imgs/contact_thumbnail.jpg
 importance: 2
 category: Ongoing
-related_publications: true
+related_publications: false
 ---
 
 Animals track resource availability and adjust their movement to maximize resource gain. 

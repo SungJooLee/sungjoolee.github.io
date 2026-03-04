@@ -5,7 +5,7 @@ description: Could aggregation of host counteract the treatment effect?
 img: assets/img/project_imgs/4-poster_thumbnail.jpg
 importance: 3
 category: Ongoing
-giscus_comments: true
+related_publications: false
 ---
 
 One community-level intervention is deer-targeted acaricide application using the 4-Poster, a passive topical treatment device. The 4-Poster functions as a feeding station that applies acaricide to deer through four vertical treatment rollers while they are feeding.

@@ -5,7 +5,7 @@ description: Do deer remember bait locations?
 img: assets/img/3.jpg
 importance: 1
 category: Ongoing
-giscus_comments: true
+related_publications: false
 ---
 
 empty

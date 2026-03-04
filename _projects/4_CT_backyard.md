@@ -5,6 +5,7 @@ description: Does variation in host communities mean a different optimal tick co
 img: assets/img/project_imgs/CT_thumbnail.jpg
 importance: 4
 category: Ongoing
+related_publications: false
 ---
 
 The peridomestic environment is a critical zone where human exposure to tick-borne hazards frequently occurs. A clear understanding of the **landscape-host-tick dynamics** in backyards can help identify the most **cost-effective tick control strategies**, tailored to each residential property’s ecological features. 

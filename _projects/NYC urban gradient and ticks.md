@@ -5,6 +5,7 @@ description: Greenspace connectivity and tick-borne hazard
 img:
 importance: 5
 category: Ongoing
+related_publications: true
 ---
 
 EPromoting wildlife functional connectivity, defined as the degree to which a landscape functions as connected for a focal species, is often considered beneficial for sustaining ecosystem services in cities. Yet increased connectivity may simultaneously elevate tick-borne hazards in highly urban settings, highlighting possible tradeoffs in urban planning and greening strategies.
