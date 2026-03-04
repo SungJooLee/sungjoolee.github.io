@@ -34,11 +34,6 @@ My work was conducted in Staten Island, one of the boroughs of New York City, wh
     Feeding density varied substantially across rounds. The December 2023 round had the highest density (2.43 sites/km²), compared to August 2023 (1.07 sites/km²) and 2024 (0.43 sites/km²)
 </div>
 
-Preliminary analyses indicate that the presence of bait in the landscape **doubled** the number of contacts within the white-tailed deer population relative to periods without bait. This increase in contacts was driven by a behavioral shift toward **stronger selection** for feeding sites, with effects markedly stronger in **winter** than in summer.
+Please stay tuned for further updates!
 
-
-However, <i>stronger selection for feeding sites did not necessarily indicate higher contact probability</i> near those sites. Instead, the relationship was **moderated by the feeding site installtion density**. In other words, how many feeding sites were installed across the landscape influenced whether increased attraction led to localized contact.
-
-
-These findings are **preliminary** and subject to change as analyses continue. Please stay tuned for further updates! 💡 
 <br><br>

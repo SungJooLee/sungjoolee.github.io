@@ -21,4 +21,4 @@ Our team sampled mice and ticks via mouse trapping and tick dragging in 112 part
     Principal component analysis result showing the association among host species backyard visitation patterns based on the camera trap dataset
 </div>
 
-Landscape analysis showed that ....
+Please stay tuned for further updates!
