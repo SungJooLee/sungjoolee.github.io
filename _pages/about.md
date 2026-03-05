@@ -34,6 +34,4 @@ Hello! I am a **Ph.D. student** advised by Prof. Maria Diuk-Wasser (<a href="htt
 I am a researcher working at the intersection of wildlife ecology, pathogen transmission, and decision-making in conservation and disease control. Currently at Columbia University, my research examines how **anthropogenic disturbances** influence **animal movement and distribution**, and how these changes scale up to **altered zoonotic pathogen transmission dynamics**. I enjoy going out in the field to collect empirical datasets and develop eco-epidemiological models to gain insights into key ecological processes that modulate zoonotic hazard. Exploring and optimizing management strategies for **hazard mitigation** grounded in biological/ecological mechanisms is also a big part of my interest.
 
 
-Please stay tuned for my research updates! 💡 <br><br>
-
-Areas of interest: Disease ecology, Movement ecology, Spatial modeling, Structured decision-making
+Please stay tuned for my research updates! 💡 <br><br>Areas of interest: Disease ecology, Movement ecology, Spatial modeling, Structured decision-making

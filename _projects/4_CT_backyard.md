@@ -15,7 +15,7 @@ Our team sampled mice and ticks via mouse trapping and tick dragging in 112 part
 
 <div class="row justify-content-center">
     <div class="col-sm-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_imgs/CT_PCA.png" title="example image" class="img-fluid rounded z-depth-1" max-width="422px" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_imgs/CT_PCA.png" title="example image" class="img-fluid rounded z-depth-1" max-width="600px" %}
     </div>
 </div>
 <div class="caption">

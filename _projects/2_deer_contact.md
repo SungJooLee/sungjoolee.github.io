@@ -2,7 +2,7 @@
 layout: page
 title: Bait and contact
 description: Does bait increase and localize contact?
-img: assets/img/project_imgs/contact_thumbnail.jpg
+img: assets/img/project_imgs/contact_thumbnail.png
 importance: 2
 category: Ongoing
 related_publications: false

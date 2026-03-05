@@ -28,4 +28,3 @@ This study aims to theoretically examine (1) whether deer aggregation around 4-P
 
 Please stay tuned for further updates!
 <br><br>
-
