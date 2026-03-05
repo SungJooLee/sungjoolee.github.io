@@ -11,7 +11,7 @@ related_publications: true
 Promoting wildlife functional connectivity, defined as the degree to which a landscape functions as connected for a focal species, is often considered beneficial for sustaining ecosystem services in cities. Yet increased connectivity may simultaneously elevate tick-borne hazards in highly urban settings, highlighting possible tradeoffs in urban planning and greening strategies.
 
 
-Our team at Columbia established a linear transect spanning an urban gradient from Staten Island to Long Island, NY. Along this gradient, we collected ticks and host data using camera trapping and field sampling. {% cite lilly2025connectivity %} showed that functional connectivity, estimated using Omniscape, significantly predicted deer occupancy, with cascading effects on the abundance of blacklegged nymphal ticks and Borrelia burgdorferi infection prevalence.
+Our team at Columbia established a linear transect spanning an urban gradient from Staten Island to Long Island, NY. Along this gradient, we collected ticks and host data using camera trapping and field sampling. {% cite lilly2025functional %} showed that functional connectivity, estimated using Omniscape, significantly predicted deer occupancy, with cascading effects on the abundance of blacklegged nymphal ticks and Borrelia burgdorferi infection prevalence.
 
 
 <div class="row">
