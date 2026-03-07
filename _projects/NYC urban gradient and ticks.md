@@ -2,7 +2,7 @@
 layout: page
 title: NYC urban gradient and ticks
 description: Greenspace connectivity and tick-borne hazard
-img: assets/img/project_imgs/gradient_thumbnail.img
+img: assets/img/project_imgs/gradient_thumbnail.jpg
 importance: 5
 category: Ongoing
 related_publications: true
