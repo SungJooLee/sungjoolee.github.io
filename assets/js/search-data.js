@@ -24,11 +24,11 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-cv",
-          title: "cv",
-          description: "",
+          title: "CV",
+          description: "Here is a link to my PDF CV.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/CV_Sung_Joo_Lee_March2026.pdf";
+            window.location.href = "/cv/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
