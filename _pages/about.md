@@ -6,7 +6,7 @@ subtitle: Columbia University. <a href='#'>sl5145@columbia.edu.</a>
 
 profile:
   align: right
-  image: profilepic_sjl.jpg
+  image: SJL_profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1200 Amsterdam Avenue</p>
